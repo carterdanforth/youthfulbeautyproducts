@@ -1,0 +1,490 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+
+body {
+    background: none repeat scroll 0 0 #fff;
+	font-family: 'PT Sans', sans-serif;
+}
+.corners {
+    border-radius: 6px;
+}
+.title-font {
+    font-family: Viga,sans-serif;
+    font-weight: 400;
+}
+.mod-box {
+    background: none repeat scroll 0 0 #f0f1f2;
+    border: 2px solid #fff;
+    border-radius: 7px;
+    box-shadow: 0 0 0 1px rgba(0, 0, 2, 0.1), 0 1px 0 rgba(0, 0, 2, 0.15), 0 1px 1px rgba(0, 0, 2, 0.1);
+    padding: 13px;
+    position: relative;
+    /*text-shadow: 0 1px 0 rgba(253, 253, 255, 1);*/
+}
+.mod-box.item {
+    background: none repeat scroll 0 0 #fff;
+    margin-bottom: 16px;
+}
+.mod-box-badge {
+    background: url("http://purebeautytrials.com/survey/include/img/badges.png") no-repeat scroll 0 0 transparent;
+    height: 48px;
+    position: absolute;
+    right: -4px;
+    top: -4px;
+    width: 48px;
+    z-index: 1;
+}
+.mod-box-badge.badge-free {
+    background-position: 0 -100px;
+}
+.mod-box.mod-2 {
+    background: #fff;
+    border: 3px solid #ccc;
+    box-shadow: none;
+    color: #464646;
+    text-shadow: none;
+	border-radius:0;
+	margin-left:50px;
+}
+.mod-box.mod-2 blockquote {
+    border-left: medium none;
+    margin: 4px;
+    min-height: 75px;
+    padding-top: 5px;
+}
+.mod-box.mod-2 blockquote p {
+    font-style: italic;
+}
+.mod-box.mod-2 img {
+    float: left;
+    margin-right: 20px;
+	border-radius:50%;
+	border:5px #8ec600 solid;
+	margin-left:-65px;
+	margin-top:-6px;
+}
+h3.popover-title {
+    color: #579c21;
+    font-family: Viga,sans-serif;
+}
+.question-title {
+    color: #579c21;
+    line-height: normal;
+    margin: 0;
+	padding-bottom:10px;
+}
+
+.quizreturn-link {
+width:66%;
+margin:0 auto!important;
+text-align:center;
+}
+
+.quizQuestion {
+padding-bottom:5px;
+}
+
+.quizLabel {
+    cursor: pointer;
+    font-size: 23px;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -8px;
+}
+.popover-content {
+    color: #000;
+    font-size: 12px;
+}
+a.accordion-toggle {
+    font-weight: 700;
+    text-decoration: underline;
+}
+.envoke-tooltip {
+    font-style: italic;
+    text-decoration: underline;
+}
+.tooltip-inner {
+    text-shadow: none;
+}
+#content-wrapper {
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+.navbar .brand {
+    color: #000;
+    font-size: 16px;
+}
+.navbar-inner {
+    background-color: #348be8;
+    background-image: none;
+}
+.reservation-timer, .places-available {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    padding-top: 10px;
+    text-align: center;
+}
+.places-available {
+    float: right;
+}
+.places-available img.places-flag {
+    padding-right: 2px;
+    position: relative;
+    top: -1px;
+}
+.navbar .label {
+    font-size: 15px;
+    top: -3px;
+}
+.container.content .row.logo div {
+    height: 70px;
+    text-align: right;
+}
+.container.content .row.logo div img {
+    margin: 0 30px;
+}
+.container.content .row.heading {
+    padding-bottom: 30px;
+    
+}
+.container.content .row.heading h1 {
+    color: #000;
+    font-size: 34px;
+    letter-spacing: -1px;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+.container.content .row.heading h4 {
+    color: #575757;
+    margin: 0;
+    padding: 0 30px;
+    text-align: right;
+}
+.container.content .row.heading a {
+    float: right;
+    margin: 0 30px;
+    text-decoration: underline;
+}
+.container.content .row.sell {
+    padding-bottom: 0;
+}
+.sell ul {
+    font-size: 16px;
+    margin: 0 auto;
+    max-width: 360px;
+}
+.sell ul li {
+    background: url("../img/greentick.png") no-repeat scroll 0 0 transparent;
+    list-style-type: none;
+    margin: 0 0 10px;
+    padding: 0 0 0 34px;
+}
+form.quiz {
+    margin: 10px 0 20px 0;
+    padding: 0 10px;
+}
+form.quiz .quizInput {
+    margin: 10px 0 20px 40px;
+}
+form.quiz .quizInput label.radio {
+    display: block;
+    font-size: 22px;
+    margin: 15px 0;
+}
+.cta {
+    background: none repeat scroll 0 0 #3b5998;
+    border: medium none;
+    color: #fff;
+    display: block;
+    font-size: 22px;
+    /*font-weight: 600;*/
+    height: 48px;
+    margin: 0;
+    padding: 0;
+	
+background: #499bea;
+background: -moz-linear-gradient(top,  #499bea 0%, #207ce5 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#499bea), color-stop(100%,#207ce5));
+background: -webkit-linear-gradient(top,  #499bea 0%,#207ce5 100%);
+background: -o-linear-gradient(top,  #499bea 0%,#207ce5 100%);
+background: -ms-linear-gradient(top,  #499bea 0%,#207ce5 100%);
+background: linear-gradient(to bottom,  #499bea 0%,#207ce5 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#499bea', endColorstr='#207ce5',GradientType=0 );
+
+}
+
+.cta:hover {
+background: #207ce5;
+background: -moz-linear-gradient(top,  #207ce5 0%, #499bea 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#207ce5), color-stop(100%,#499bea));
+background: -webkit-linear-gradient(top,  #207ce5 0%,#499bea 100%);
+background: -o-linear-gradient(top,  #207ce5 0%,#499bea 100%);
+background: -ms-linear-gradient(top,  #207ce5 0%,#499bea 100%);
+background: linear-gradient(to bottom,  #207ce5 0%,#499bea 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#207ce5', endColorstr='#499bea',GradientType=0 );
+}
+
+.cta span {
+    position: relative;
+    top: -4px;
+}
+a.cta span {
+    display: block;
+    text-align: center;
+    top: 10px;
+}
+img#hero-shot {
+    display: block;
+    margin: 0 auto 20px;
+    width: 95%;
+}
+.further-info p {
+    color: #000;
+    font-size: 11px;
+    line-height: 110%;
+}
+.brands {
+    margin: 30px 0 25px;
+    text-align: center;
+}
+#footer-title {
+    border-bottom: 8px dotted #e5e5e5;
+    margin: 30px 0;
+}
+#footer-title div.span12 {
+    padding-bottom: 10px;
+    text-align: center;
+}
+#footer-title img {
+    margin: 0 20px;
+}
+.customers {
+    margin-bottom: 25px;
+}
+#application .returnlink-last {
+    margin-bottom: 30px;
+}
+#footer-wrapper {
+    background: none repeat scroll 0 0 #f7f7f9;
+    border-top: 2px solid #fff;
+}
+#footer-wrapper h1 {
+    color: #000;
+    margin: 12px 0;
+}
+footer {
+    margin: 30px 0;
+}
+footer p {
+    color: #000;
+    font-size: 90px;
+    padding-left: 15px;
+}
+confirmation .logo {
+    text-align: right;
+}
+#confirmation .title-row {
+    padding: 30px;
+}
+#confirmation .title-row h1 {
+    color: #000;
+    font-size: 80px;
+    margin-top: 0;
+}
+#confirmation .title-row h4 {
+    margin-top: 4px;
+}
+#confirmation .subtitle-row h2 {
+    color: #000;
+    margin: 0 30px 30px;
+}
+#confirmation .subtitle-row .highlight {
+    color: #579c21;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+#confirmation #tab-nav {
+    margin-left: 30px;
+}
+#confirmation #tab-nav a {
+    cursor: pointer;
+}
+.cta:hover{
+	text-decoration: none;
+	color: #fff;
+}
+#confirmation .nav-pills.nav-stacked li.active a, #confirmation .nav-pills.nav-stacked li.active a:hover {
+    background: none repeat scroll 0 0 #579c21;
+    text-decoration: none;
+}
+#confirmation .nav-pills.nav-stacked li a {
+    font-size: 16px;
+    padding: 12px 20px;
+    text-decoration: underline;
+}
+#confirmation .products {
+    padding-right: 30px;
+}
+#confirmation .item .row1 {
+    min-height: 180px;
+}
+#confirmation .item h2 {
+    line-height: 100%;
+    margin: 0;
+}
+#confirmation .item h2 a {
+    color: #115f8c;
+    font-size: 23px;
+}
+#confirmation .item h3 {
+    line-height: 100%;
+}
+#confirmation .item img {
+    margin-right: 11px;
+}
+#confirmation .item p {
+    color: #838383;
+    font-size: 12px;
+    line-height: 150%;
+}
+#confirmation .block-item {
+    float: left;
+    margin-right: 28px;
+}
+#confirmation .block-item * {
+    margin: 0;
+}
+#confirmation .block-item h3 {
+    color: #838383;
+}
+#confirmation .block-item .strike {
+    text-decoration: line-through;
+}
+#confirmation .claim {
+    margin: 15px 0;
+    text-align: right;
+}
+.modal.fade.in {
+    top: 20%;
+}
+.modal {
+    background-color: #3b5998;
+}
+.modal-body {
+    background-color: #fff;
+}
+.modal-header {
+    color: #fff;
+}
+.quizQuestionNumber, .hidden {
+    display: none;
+}
+.accordion, .container.content {
+    background: none repeat scroll 0 0 #fff;
+}
+.reservation-timer, #confirmation .item .col1 {
+    float: left;
+}
+.container.content .row.sell #quiz-wrapper, .container.content .row.sell .further-info {
+    margin: 0 20px 10px;
+}
+.further-info h4, #confirmation .block-item .free {
+    color: #579c21;
+}
+.btn-custom {
+    background-color: hsl(273, 100%, 28%) !important;
+    background-image: linear-gradient(#b051ff, #4e008e);
+    background-repeat: repeat-x;
+    border-color: #4e008e #4e008e hsl(273, 100%, 18.5%);
+    color: #fff !important;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.62);
+}
+.erroralert {
+    background-color: #da4235;
+    border-radius: 0 0 7px 7px;
+    color: #ffffff;
+    font-size: 17px;
+    line-height: 36px;
+    margin: 0 -15px -15px;
+    text-align: center;
+}
+#confirmation .title-row h1 {
+    font-size: 90px;
+    margin-top: 45px;
+}
+footer p {
+    font-size: 10px;
+}
+.heading{
+	text-align: center;
+	margin-top: 30px;
+}
+@media all and (min-width: 701px) and (max-width: 900px){
+	.heading{
+		margin-top: 10px;
+	}
+	.reservation-timer{
+		float: none;
+		clear: both;
+		text-align: center;
+	}
+	.places-available{
+		float: none;
+		clear: both;
+	}
+}
+@media all and (max-width: 700px) {
+	.heading{
+		margin: 5px 0;
+	}
+	#content-wrapper{
+		padding-top: 0px;
+	}
+	#confirmation .title-row {
+	    padding: 10px;
+	}
+	#confirmation .title-row h1 {
+	    font-size: 40px;
+	    margin-top: 10px;
+	    text-align: center;
+	}
+	.span12, .row-fluid .span12 {
+	    box-sizing: border-box;
+	    text-align: center;
+	    width: 100%;
+	}
+	.navbar-inner:before, .navbar-inner:after {
+	    content: "";
+	    display: table;
+	    height: 5px;
+	    line-height: 0;
+	}
+	.reservation-timer, .places-available {
+	    color: #fff;
+	    font-size: 14px;
+	    font-weight: 700;
+	    padding-top: 10px;
+	    text-align: center;
+	    width: 100%;
+	}
+	
+	.mod-box.mod-2 {
+	margin-bottom:20px;
+	}
+	
+	.container.content .row.heading {
+	padding-bottom:5px;
+	}
+	
+	.container.content .row.sell #quiz-wrapper, .container.content .row.sell .further-info {
+	margin: 10px 0;
+	}
+	
+	body {
+    padding-right: 10px;
+    padding-left: 10px;
+	}
+}
+
