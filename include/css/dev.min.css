@@ -421,6 +421,15 @@ footer p {
 	text-align: center;
 	margin-top: 30px;
 }
+footer .navbar{
+    margin-bottom: 0!important;
+}
+footer .nav a {
+  color: white !important;
+}
+footer .nav a:hover{
+    text-decoration: underline;
+}
 @media all and (min-width: 701px) and (max-width: 900px){
 	.heading{
 		margin-top: 10px;

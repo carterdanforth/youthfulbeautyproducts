@@ -701,7 +701,7 @@ function ReverseDisplay(d) {
 
 			<blockquote>
 
-			  <p>&quot;Two Top Brands creams! Thank you very much YouthfulBeautyProducts.net!!&quot;</p>
+			  <p>&quot;Two Top Brands creams! Thank you very much YouthfulBeautyProducts.org!!&quot;</p>
 
 			  <small>Becka, Franklin, North Carolina</small>
 
@@ -720,7 +720,7 @@ function ReverseDisplay(d) {
 	</div></div>
 
 
-		<footer><p>&copy; Copyright 2014. - YouthfulBeautyProducts.net - All Rights Reserved</p>
+		<footer><p>&copy; Copyright 2014. - YouthfulBeautyProducts.org - All Rights Reserved</p>
 		  <p>All trademarks on this web site whether registered or not, are the property of their respective owners. The authors of this web site are not sponsored by or affiliated with any of the third-party trade mark or third-party registered trade mark owners, and make no representations about them, their owners, their products or services.</p>
 		</footer>
 
@@ -963,6 +963,7 @@ function ReverseDisplay(d) {
 
 
 <div class="erroralert" style="display:none">Please select an answer in order to proceed</div>
+<?php include('footer.php'); ?>
 </body>
 
 </html>
