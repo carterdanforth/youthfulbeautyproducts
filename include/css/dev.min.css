@@ -430,6 +430,18 @@ footer .nav a {
 footer .nav a:hover{
     text-decoration: underline;
 }
+div.container .row.content {
+    max-width: 900px;
+    width: 100%;
+    margin: auto;
+}
+h1.entry-title.td-page-title {
+    font-size: 35px !important;
+    max-width: 900px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
 @media all and (min-width: 701px) and (max-width: 900px){
 	.heading{
 		margin-top: 10px;
