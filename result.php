@@ -125,12 +125,12 @@ document.onclick=reEnable
 	<div class="mod-box-badge badge-hot"></div>
 				<div class="row1">
 				<div class="col1">
-					<a target="_blank" href="https://tryprodermagenix.com/offerS66/?transaction_id=102e52f1fd88c478e641d9ab7c1c95&afid=1000&subid=&utm_source=Affiliate&utm_medium=Aff-1000-&utm_campaign=offerS62"> <img src="include/img/dermp.jpg" style="max-height:190px;"></a>
+					<a target="_blank" href="https://tryprodermagenix.com/offerS66/"> <img src="include/img/dermp.jpg" style="max-height:190px;"></a>
 
 				</div>
 				<div class="col2">
 					
-					<h2><a target="_blank" href="https://tryprodermagenix.com/offerS66/?transaction_id=102e52f1fd88c478e641d9ab7c1c95&afid=1000&subid=&utm_source=Affiliate&utm_medium=Aff-1000-&utm_campaign=offerS62">Derma ProMedics - Better Than Botox</a></h2>
+					<h2><a target="_blank" href="https://tryprodermagenix.com/offerS66/">Derma ProMedics - Better Than Botox</a></h2>
 					<p>2016's hottest skin care line.  Revolutionary cutting edge ingredients to Rejuvinate, Hydrate, and Replenish aging skin.  You'll receive 30 day supply of Derma ProMedics Anti-Wrinkle Formula Skin Aging Serum & Derma ProMedics Eye Cream.  This is one duo you won't want to miss, grab yours before they run out!</p>
 					<div class="block-item">
 					<h5>Retail Price:</h5>
@@ -147,7 +147,7 @@ document.onclick=reEnable
 					</h3>
 					</div>
 					<div class="claim">
-					<a class="btn btn-large btn-danger" target="_blank" href="https://tryprodermagenix.com/offerS66/?transaction_id=102e52f1fd88c478e641d9ab7c1c95&afid=1000&subid=&utm_source=Affiliate&utm_medium=Aff-1000-&utm_campaign=offerS62">Claim Here »</a>
+					<a class="btn btn-large btn-danger" target="_blank" href="https://tryprodermagenix.com/offerS66/">Claim Here »</a>
 					</div>
 				</div>
 				</div>
@@ -191,12 +191,12 @@ document.onclick=reEnable
 	<div class="mod-box-badge badge-hot"></div>
 				<div class="row1">
 				<div class="col1">
-					<a target="_blank" href="http://affs.domaintrkr.com/aff_r?offer_id=92&aff_id=1000&url=http%3A%2F%2Fmondaybikerides.com%2F%3Fa%3D5898%26c%3D85935%26s2%3D1029babac0c1bf0b11bb51a25d85c1&urlauth=388272804754166789616846677682"> <img src="include/img/biogeniste2.jpg" style="max-height:190px;"></a>
+					<a target="_blank" href="http://affs.domaintrkr.com/aff_r"> <img src="include/img/biogeniste2.jpg" style="max-height:190px;"></a>
 
 				</div>
 				<div class="col2">
 					
-					<h2><a target="_blank" href="http://affs.domaintrkr.com/aff_r?offer_id=92&aff_id=1000&url=http%3A%2F%2Fmondaybikerides.com%2F%3Fa%3D5898%26c%3D85935%26s2%3D1029babac0c1bf0b11bb51a25d85c1&urlauth=388272804754166789616846677682">Bio Geniste - Better Than Botox</a></h2>
+					<h2><a target="_blank" href="http://affs.domaintrkr.com/aff_r">Bio Geniste - Better Than Botox</a></h2>
 					<p>Newly released skin care combo, Biogeniste Instant Wrinkle Reducer and Hydravelle Anti-Aging Cream.  This latest combo is shocking the nation with amazingly fast results by many users.  Get a 30 day supply of this duo and watch your skin transform! Full 30 day money back guarantee!</p>
 					<div class="block-item">
 					<h5>Retail Price:</h5>
@@ -213,7 +213,7 @@ document.onclick=reEnable
 					</h3>
 					</div>
 					<div class="claim">
-					<a class="btn btn-large btn-danger" target="_blank" href="http://affs.domaintrkr.com/aff_r?offer_id=92&aff_id=1000&url=http%3A%2F%2Fmondaybikerides.com%2F%3Fa%3D5898%26c%3D85935%26s2%3D1029babac0c1bf0b11bb51a25d85c1&urlauth=388272804754166789616846677682">Claim Here »</a>
+					<a class="btn btn-large btn-danger" target="_blank" href="http://affs.domaintrkr.com/aff_r">Claim Here »</a>
 					</div>
 				</div>
 				</div>
@@ -1318,7 +1318,7 @@ document.onclick=reEnable
 			
 			
 	
-		<div id="item1" class="mod-box item">	<div class="mod-box-badge badge-hot"></div>				<div class="row1">				<div class="col1">					<a target="_blank" href="http://affs.domaintrkr.com/aff_r?offer_id=193&aff_id=1000&url=http%3A%2F%2Fmoneynvrsleeps.com%2F%3Fa%3D967%26c%3D139876%26s2%3D102353daa70a818bbd8ff84dd5e2db&urlauth=576922210386684511663229412550"> <img src="include/img/nubeauty.jpg" style="max-height:190px;"></a>				</div>				<div class="col2">										<h2><a target="_blank" href="http://affs.domaintrkr.com/aff_r?offer_id=193&aff_id=1000&url=http%3A%2F%2Fmoneynvrsleeps.com%2F%3Fa%3D967%26c%3D139876%26s2%3D102353daa70a818bbd8ff84dd5e2db&urlauth=576922210386684511663229412550">NuBeauty - Better Than Botox</a></h2>					<p>You'll receive a full 30 day supply of NUBeauty Advanced Anti-Aging Serum and Regenis Lift Advanced Anti-Aging Lift.  This high potency wrinkle reduction combo is one our favorite skin lines.	Look up to 10 years younger without surgery and discover Hollywood's unspoken secret! Scientifically proven to produce results! You'll never see your skin looking and younger and brighter...</p>					<div class="block-item">					<h5>Retail Price:</h5>					<h3 class="title-font strike">$ 299.8</h3>					</div>					<div class="block-item">					<h5>Your Price:</h5>					<h3 class="title-font free">FREE TRIAL</h3>					</div>					<div class="block-item">					<h5>Postage:</h5>					<h3 class="title-font">$ 2.97										</h3>					</div>					<div class="claim">					<a class="btn btn-large btn-danger" target="_blank" href="http://affs.domaintrkr.com/aff_r?offer_id=193&aff_id=1000&url=http%3A%2F%2Fmoneynvrsleeps.com%2F%3Fa%3D967%26c%3D139876%26s2%3D102353daa70a818bbd8ff84dd5e2db&urlauth=576922210386684511663229412550">Claim Here »</a><br /><p class="only3">(Only 3 Available)</p>					</div>				</div>				</div>			</div>
+		<div id="item1" class="mod-box item">	<div class="mod-box-badge badge-hot"></div>				<div class="row1">				<div class="col1">					<a target="_blank" href="http://affs.domaintrkr.com/aff_r"> <img src="include/img/nubeauty.jpg" style="max-height:190px;"></a>				</div>				<div class="col2">										<h2><a target="_blank" href="http://affs.domaintrkr.com/aff_r">NuBeauty - Better Than Botox</a></h2>					<p>You'll receive a full 30 day supply of NUBeauty Advanced Anti-Aging Serum and Regenis Lift Advanced Anti-Aging Lift.  This high potency wrinkle reduction combo is one our favorite skin lines.	Look up to 10 years younger without surgery and discover Hollywood's unspoken secret! Scientifically proven to produce results! You'll never see your skin looking and younger and brighter...</p>					<div class="block-item">					<h5>Retail Price:</h5>					<h3 class="title-font strike">$ 299.8</h3>					</div>					<div class="block-item">					<h5>Your Price:</h5>					<h3 class="title-font free">FREE TRIAL</h3>					</div>					<div class="block-item">					<h5>Postage:</h5>					<h3 class="title-font">$ 2.97										</h3>					</div>					<div class="claim">					<a class="btn btn-large btn-danger" target="_blank" href="http://affs.domaintrkr.com/aff_r">Claim Here »</a><br /><p class="only3">(Only 3 Available)</p>					</div>				</div>				</div>			</div>
 	
 
 			
@@ -1620,12 +1620,12 @@ document.onclick=reEnable
 	<div class="mod-box-badge badge-hot"></div>
 				<div class="row1">
 				<div class="col1">
-					<a target="_blank" href="http://affs.domaintrkr.com/aff_r?offer_id=92&aff_id=1000&url=http%3A%2F%2Fmondaybikerides.com%2F%3Fa%3D5898%26c%3D85935%26s2%3D1029babac0c1bf0b11bb51a25d85c1&urlauth=388272804754166789616846677682"> <img src="include/img/biogenist.png" style="max-height:190px;"></a>
+					<a target="_blank" href="http://affs.domaintrkr.com/aff_r"> <img src="include/img/biogenist.png" style="max-height:190px;"></a>
 
 				</div>
 				<div class="col2">
 					
-					<h2><a target="_blank" href="http://affs.domaintrkr.com/aff_r?offer_id=92&aff_id=1000&url=http%3A%2F%2Fmondaybikerides.com%2F%3Fa%3D5898%26c%3D85935%26s2%3D1029babac0c1bf0b11bb51a25d85c1&urlauth=388272804754166789616846677682">Bio Geniste - Look & Feel Younger</a></h2>
+					<h2><a target="_blank" href="http://affs.domaintrkr.com/aff_r">Bio Geniste - Look & Feel Younger</a></h2>
 					<p>Newly released skin care combo, Biogeniste Instant Wrinkle Reducer and Hydravelle Anti-Aging Cream.  This latest combo is shocking the nation with amazingly fast results by many users.  Get a 30 day supply of this duo and watch your skin transform!</p>
 					<div class="block-item">
 					<h5>Retail Price:</h5>
@@ -1642,7 +1642,7 @@ document.onclick=reEnable
 					</h3>
 					</div>
 					<div class="claim">
-					<a class="btn btn-large btn-danger" target="_blank" href="http://affs.domaintrkr.com/aff_r?offer_id=92&aff_id=1000&url=http%3A%2F%2Fmondaybikerides.com%2F%3Fa%3D5898%26c%3D85935%26s2%3D1029babac0c1bf0b11bb51a25d85c1&urlauth=388272804754166789616846677682">Claim Here »</a>
+					<a class="btn btn-large btn-danger" target="_blank" href="http://affs.domaintrkr.com/aff_r">Claim Here »</a>
 					</div>
 				</div>
 				</div>
@@ -1830,11 +1830,11 @@ document.onclick=reEnable
 			<div id="item3" class="mod-box item">
    <div class="row1">
 			<div class="col1">
-					<a target="_blank" href="http://affs.domaintrkr.com/aff_r?offer_id=220&aff_id=1000&url=http%3A%2F%2Ftrkbeyond.com%2F%3Fa%3D2385%26c%3D58677%26s2%3D1020e1363575262334855255f46950&urlauth=447073909832849385603566731260"><img src="include/img/meta.jpg" style="max-height:190px;"></a>
+					<a target="_blank" href="http://affs.domaintrkr.com/aff_r"><img src="include/img/meta.jpg" style="max-height:190px;"></a>
 				</div>
 				<div class="col2">
 					
-				  <h2><a target="_blank" href="http://affs.domaintrkr.com/aff_r?offer_id=220&aff_id=1000&url=http%3A%2F%2Ftrkbeyond.com%2F%3Fa%3D2385%26c%3D58677%26s2%3D1020e1363575262334855255f46950&urlauth=447073909832849385603566731260">Metabo Matrix</a></h2>
+				  <h2><a target="_blank" href="http://affs.domaintrkr.com/aff_r">Metabo Matrix</a></h2>
 			    <p>Latest breakthrough combo has received numerous attention.  Eat the foods you still love while naturally burning fat.  It's time to transform your body the quickest and easiest way naturally possible.</p>
 			    <div class="block-item">
 				  <h5>Retail Price:</h5>
@@ -1851,7 +1851,7 @@ document.onclick=reEnable
 					</h3>
 					</div>
 					<div class="claim">
-					<a class="btn btn-large btn-danger" target="_blank" href="http://affs.domaintrkr.com/aff_r?offer_id=220&aff_id=1000&url=http%3A%2F%2Ftrkbeyond.com%2F%3Fa%3D2385%26c%3D58677%26s2%3D1020e1363575262334855255f46950&urlauth=447073909832849385603566731260">Claim Here »</a>
+					<a class="btn btn-large btn-danger" target="_blank" href="http://affs.domaintrkr.com/aff_r">Claim Here »</a>
 					</div>
 				</div>
 		  </div>
@@ -1865,7 +1865,7 @@ document.onclick=reEnable
 			<!---<div id="item3" class="mod-box item">
    <div class="row1">
 			<div class="col1">
-					<a target="_blank" href="http://affs.domaintrkr.com/aff_r?offer_id=220&aff_id=1000&url=http%3A%2F%2Ftrkbeyond.com%2F%3Fa%3D2385%26c%3D58677%26s2%3D1020e1363575262334855255f46950&urlauth=447073909832849385603566731260"><img src="include/img/apex.jpg" style="max-height:190px;"></a>
+					<a target="_blank" href="http://affs.domaintrkr.com/aff_r"><img src="include/img/apex.jpg" style="max-height:190px;"></a>
 				</div>
 				<div class="col2">
 					
